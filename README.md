@@ -21,3 +21,26 @@ This project highlights the potential of AI in transforming healthcare diagnosti
 
 **Classification of Heart Disease Dectection using CNN Algorithm**
 
+![1](https://github.com/user-attachments/assets/871b41ab-63cd-4d07-92dc-91aee6d8713f)
+
+**Frontend**
+
+
+![2](https://github.com/user-attachments/assets/d91c01a6-1ecb-4ec4-9339-839f2362d3db)
+
+
+**Heart Disease Prediction**
+
+
+![3](https://github.com/user-attachments/assets/56acec7c-d7f3-405b-a9a6-4d635bf5c362)
+
+
+![4](https://github.com/user-attachments/assets/b7ddc09b-8234-4b11-89c4-fad2dec6cfcf)
+
+
+![5](https://github.com/user-attachments/assets/fbc6098c-c2d7-45c3-8640-84a8ba2a7848)
+
+
+![6](https://github.com/user-attachments/assets/c97d43fc-c444-4a56-9f1a-915143516f91)
+
+
