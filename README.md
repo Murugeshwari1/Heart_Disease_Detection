@@ -17,3 +17,7 @@ The application utilizes a CNN model trained on a comprehensive dataset of healt
 **Compliance and Security:** Ensuring patient data privacy and compliance with healthcare regulations is a critical component of the application.
 
 This project highlights the potential of AI in transforming healthcare diagnostics by providing an accessible, accurate, and efficient tool for heart disease prediction. The successful implementation of this application underscores the capability of AI to enhance medical diagnostics and contribute to better patient outcomes.
+
+
+**Classification of Heart Disease Dectection using CNN Algorithm**
+
