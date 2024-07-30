@@ -1,4 +1,4 @@
-This project,focuses on the creation of a robust AI application for predicting heart disease using various health parameters. The aim is to provide an accurate and user-friendly diagnostic tool that leverages the power of convolutional neural networks (CNNs) to analyze patient data and predict the presence of heart disease.
+This project focuses on the creation of a robust AI application for predicting heart disease using various health parameters. The aim is to provide an accurate and user-friendly diagnostic tool that leverages the power of convolutional neural networks (CNNs) to analyze patient data and predict the presence of heart disease.
 
 The application utilizes a CNN model trained on a comprehensive dataset of health parameters, including age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise relative to rest, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, and thalassemia.
 
